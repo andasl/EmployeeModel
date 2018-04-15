@@ -4,7 +4,8 @@
 # wechat
 欢迎关注我的微信公众号：云端看大地
 
-![微信公众号：云端看大地](http://img.blog.csdn.net/20170304213044167?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzgxODk5MA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast width="250")
+<img src="http://img.blog.csdn.net/20170304213044167?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzgxODk5MA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="250" alt=""/>
+
 
 
 
